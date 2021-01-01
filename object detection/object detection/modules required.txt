@@ -1,0 +1,13 @@
+Assalam-o-Alaiqum :)
+
+modules which are required for the project:
+cv2:
+       how to download:
+                                  step 1:  click windows button which is at the bottom of task bar
+	             step 2: search cmd (command prompt)
+	             step 3: type :
+		            pip install opencv-python
+	            step 4:  after installation you can use object detection  😊 :)
+items required:
+	(webcam or any simple camera)
+                                                                  thanks
